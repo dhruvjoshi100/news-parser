@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"  xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <title>WSJ.com: WSJD</title>
+    <link>http://online.wsj.com</link> 
+	  <description>WSJD - Technology</description> 
+	  <language>en-us</language> 
+	  <copyright>copyright  &#169; 2017 Dow Jones &amp; Company, Inc.</copyright> 
+	  <lastBuildDate>Fri, 23 Jun 2017 14:03:18 EDT</lastBuildDate>
+	  <image>
+      <title>WSJ.com: WSJD</title>
+      <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
+      <link>http://online.wsj.com</link> 
+    </image>
+    <atom:link href="http://online.wsj.com" rel="self" type="application/rss+xml" />
+<!--Item 1 of Technology_Lead_Story_1 -->
+<item>
+      <title>Uber Scrambles to Prevent Exodus Amid Office Turmoil</title>
+      <guid isPermaLink="false">SB12288264447122304565404583225140842362924</guid>
+      <link>https://www.wsj.com/articles/uber-makes-quick-workplace-reforms-to-calm-strained-nerves-1498237561?mod=rss_Technology</link>
+      <description>Uber&#8217;s senior managers have been urging its more than 15,000 employees to stick around and see how the embattled company reinvents itself after the ouster of its CEO. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ743_uberin_G_20170623114113.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Fri, 23 Jun 2017 13:53:41 EDT</pubDate>
+    </item>
+<!--Item 2 of Technology_Lead_Story_1 -->
+<item>
+      <title>From Music to Maps, How Apple's iPhone Changed Business</title>
+      <guid isPermaLink="false">SB12288264447122304565404583222910212767602</guid>
+      <link>https://www.wsj.com/articles/from-music-to-maps-how-apples-iphone-changed-business-1498210201?mod=rss_Technology</link>
+      <description>Apple&#8217;s iPhone, and the smartphone boom that followed, gave rise to whole new industries, laid waste to others and forced new business models. As the device turns 10, we take stock of its impact.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ341_ibusin_G_20170622133431.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Fri, 23 Jun 2017 11:14:43 EDT</pubDate>
+    </item>
+<!--Item 3 of Technology_Lead_Story_1 -->
+<item>
+      <title>The New Sticker Shock: Plunging Cellphone Bills</title>
+      <guid isPermaLink="false">SB11009089591291013956004583217583459073660</guid>
+      <link>https://www.wsj.com/articles/the-new-sticker-shock-plunging-cellphone-bills-1498232910?mod=rss_Technology</link>
+      <description>There are more cellphones in America than people. That market saturation has led to brutal price competition, which in turn is transforming consumers&#8217; costs, industry profits and antitrust law.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ718_PHONEB_G_20170623103233.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Fri, 23 Jun 2017 14:03:04 EDT</pubDate>
+    </item>
+<!--Item 4 of Technology_Lead_Story_1 -->
+<item>
+      <title>Uber Ex-CEO Travis Kalanick Knew of Stolen Google Files</title>
+      <guid isPermaLink="false">SB12288264447122304565404583224044095482614</guid>
+      <link>https://www.wsj.com/articles/uber-ex-ceo-travis-kalanick-knew-of-stolen-google-files-1498163977?mod=rss_Technology</link>
+      <description>Former Uber Technologies Chief Executive Travis Kalanick knew an engineer had allegedly stolen Google files before hiring the engineer last year, according to Uber&#8217;s attorneys. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ480_37jDT_G_20170622163047.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Thu, 22 Jun 2017 22:17:56 EDT</pubDate>
+    </item>
+<!--Item 5 of Technology_Lead_Story_1 -->
+<item>
+      <title>Tesla Explores Possibility of Manufacturing Cars in China</title>
+      <guid isPermaLink="false">SB12288264447122304565404583223652133411918</guid>
+      <link>https://www.wsj.com/articles/tesla-exploring-possibility-of-manufacturing-cars-in-china-1498145548?mod=rss_Technology</link>
+      <description>Tesla said it is exploring with government officials in Shanghai the possibility of opening a manufacturing facility to build electric vehicles for the Chinese market. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ279_32ds6_G_20170622112619.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>FREE</category>
+    <pubDate>Thu, 22 Jun 2017 15:31:21 EDT</pubDate>
+    </item>
+<!--Item 6 of Technology_Lead_Story_1 -->
+<item>
+      <title>Apple Scraps Like an Underdog in Second Biggest Mobile Market</title>
+      <guid isPermaLink="false">SB10312943123664783869304583197034217843640</guid>
+      <link>https://www.wsj.com/articles/apple-scraps-like-an-underdog-in-second-biggest-mobile-market-1498123803?mod=rss_Technology</link>
+      <description>Apple is helping third-party re-sellers, mulling new flagship stores and firing up app-development centers in India as it runs to catch up in one of the world&#8217;s biggest smartphone markets.</description>
+
+      <category>PAID</category>
+    <pubDate>Fri, 23 Jun 2017 03:17:55 EDT</pubDate>
+    </item>
+<!--Item 7 of Technology_Lead_Story_1 -->
+<item>
+      <title>Facebook Has New Vision Beyond 'Connecting,' and It Thinks Groups Are Key</title>
+      <guid isPermaLink="false">SB12288264447122304565404583223713978975712</guid>
+      <link>https://www.wsj.com/articles/facebook-sets-new-vision-for-next-decade-outlines-new-features-1498148171?mod=rss_Technology</link>
+      <description>Facebook Chief Executive Mark Zuckerberg took a step toward defining a new vision for the social-media company as it grapples with how to handle its growing power in the world. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ311_32eSj_G_20170622121350.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Thu, 22 Jun 2017 18:36:05 EDT</pubDate>
+    </item>
+<!--Item 8 of Technology_Lead_Story_1 -->
+<item>
+      <title>BlackBerry Revenue Falls Amid Shift to Software</title>
+      <guid isPermaLink="false">SB12288264447122304565404583225582162998610</guid>
+      <link>https://www.wsj.com/articles/blackberry-revenue-falls-amid-shift-to-software-1498229944?mod=rss_Technology</link>
+      <description>BlackBerry Ltd. stock plunged 11% in Friday trading after the company posted a steep drop in quarterly revenue as it continues to shift focus to its burgeoning software business.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ716_2YbF7_G_20170623103050.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Fri, 23 Jun 2017 13:54:12 EDT</pubDate>
+    </item>
+<!--Item 9 of Technology_Lead_Story_1 -->
+<item>
+      <title>Content Recommendation Firm Outbrain Lays Off 4% of its Workforce</title>
+      <guid isPermaLink="false">SB12288264447122304565404583225614131824432</guid>
+      <link>https://www.wsj.com/articles/content-recommendation-firm-outbrain-lays-off-4-of-its-workforce-1498232045?mod=rss_Technology</link>
+      <description>Outbrain, best known for placing sponsored links on publishers&#8217; websites, has laid off 4% of its roughly 600-person global workforce. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ738_2GNWv_G_20170623112605.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>FREE</category>
+    <pubDate>Fri, 23 Jun 2017 12:43:23 EDT</pubDate>
+    </item>
+<!--Item 10 of Technology_Lead_Story_1 -->
+<item>
+      <title>Trump Promises Telecom Executives Less Red Tape</title>
+      <guid isPermaLink="false">SB12288264447122304565404583223861775773392</guid>
+      <link>https://www.wsj.com/articles/trump-promises-telecom-executives-less-red-tape-1498156054?mod=rss_Technology</link>
+      <description>President Donald Trump on Thursday told technology and telecom executives the government will tackle federal regulations they consider too restrictive but stopped short of announcing any specific policies aimed at their industries.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ367_37okq_G_20170622141556.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="370"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Thu, 22 Jun 2017 17:14:18 EDT</pubDate>
+    </item>
+<!--Item 11 of Technology_Lead_Story_1 -->
+<item>
+      <title>Taiwan's Foxconn Eyes Seven States for $10 Billion Investment</title>
+      <guid isPermaLink="false">SB12288264447122304565404583222711006668062</guid>
+      <link>https://www.wsj.com/articles/foxconn-in-talks-with-u-s-states-over-new-plant-1498105489?mod=rss_Technology</link>
+      <description>Taiwan&#8217;s Foxconn Technology Group, which assembles Apple&#8217;s iPhones in China, is looking at seven states in the American heartland where it would invest $10 billion or more in factories to build flat-panel screens.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ084_36C5w_G_20170622001224.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Thu, 22 Jun 2017 14:43:20 EDT</pubDate>
+    </item>
+<!--Item 12 of Technology_Lead_Story_1 -->
+<item>
+      <title>Weibo Gets in Beijing's Way</title>
+      <guid isPermaLink="false">SB11603922512965864473104583225181940535070</guid>
+      <link>https://www.wsj.com/articles/weibo-gets-in-beijings-way-1498211891?mod=rss_Technology</link>
+      <description>Investors need to consider the political risk faced by China&#8217;s version of Twitter. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ689_0623WE_G_20170623055433.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Fri, 23 Jun 2017 06:01:14 EDT</pubDate>
+    </item>
+<!--Item 13 of Technology_Lead_Story_1 -->
+<item>
+      <title>Apple Supplier Imagination Technologies Puts Itself Up for Sale</title>
+      <guid isPermaLink="false">SB12288264447122304565404583223263563659862</guid>
+      <link>https://www.wsj.com/articles/apple-supplier-imagination-technologies-puts-itself-up-for-sale-1498130119?mod=rss_Technology</link>
+      <description>Imagination Technologies Group, a small U.K. technology firm which has been one of Apple&#8217;s important suppliers, said Thursday it has put itself up for sale.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ184_2YrFs_G_20170622070325.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Thu, 22 Jun 2017 07:21:00 EDT</pubDate>
+    </item>
+<!--Item 14 of Technology_Lead_Story_1 -->
+<item>
+      <title>Cable Operator Altice USA Climbs in Market Debut</title>
+      <guid isPermaLink="false">SB10018586632363844129004583223510415389872</guid>
+      <link>https://www.wsj.com/articles/cable-operator-altice-usa-trades-higher-in-market-debut-1498141409?mod=rss_Technology</link>
+      <description>Shares of Altice USA traded higher in their market debut Thursday, a day after the cable operator raised more money in its IPO than any other U.S.-listed telecom since 2000.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ275_37nDn_G_20170622112056.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Thu, 22 Jun 2017 17:49:58 EDT</pubDate>
+    </item>
+<!--Item 15 of Technology_Lead_Story_1 -->
+<item>
+      <title>Oracle's Cloud Business Lifts Profit</title>
+      <guid isPermaLink="false">SB12562373442766844893504583221793883059354</guid>
+      <link>https://www.wsj.com/articles/oracles-cloud-business-lifts-profit-1498077696?mod=rss_Technology</link>
+      <description>Oracle Corp. said Wednesday its quarterly profit rose 15% from a year earlier  to $3.23 billion.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TY845_37h4N_G_20170621132844.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Wed, 21 Jun 2017 18:56:21 EDT</pubDate>
+    </item>
+<!--Item 16 of Technology_Lead_Story_1 -->
+<item>
+      <title>NBC Sports Jumps on the Esports Bandwagon</title>
+      <guid isPermaLink="false">SB12708164055279013341404583220153983371418</guid>
+      <link>https://www.wsj.com/articles/nbc-sports-jumps-on-the-esports-bandwagon-1498039380?mod=rss_Technology</link>
+      <description>Comcast&#8217;s NBC Sports plans to televise an esports tournament later this summer, the latest broadcaster turning to competitive videogaming to grow viewership at a time when many consumers are cutting the cord.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TY720_esport_G_20170621110507.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Wed, 21 Jun 2017 13:11:09 EDT</pubDate>
+    </item>
+<!--Item 17 of Technology_Lead_Story_1 -->
+<item>
+      <title>Aviation Industry Seeks to Strengthen Cybersecurity Defenses</title>
+      <guid isPermaLink="false">SB12288264447122304565404583222583918438380</guid>
+      <link>https://www.wsj.com/articles/aviation-industry-seeks-to-strengthen-cybersecurity-defenses-1498104452?mod=rss_Technology</link>
+      <description>Escalating concerns about cyberthreats are prompting the aviation industry to devise an unlikely new safeguard: real-time warnings to pilots about potential hacking attempts. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ182_37mft_G_20170622065647.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Thu, 22 Jun 2017 12:40:39 EDT</pubDate>
+    </item>
+<!--Item 18 of Technology_Lead_Story_1 -->
+<item>
+      <title>Car Buyers Complain About Semiautonomous Features</title>
+      <guid isPermaLink="false">SB12288264447122304565404583221730258097150</guid>
+      <link>https://www.wsj.com/articles/car-buyers-complain-about-semiautonomous-features-1498064400?mod=rss_Technology</link>
+      <description>J.D. Power&#8217;s annual Initial Quality Study, a closely watched indicator of which companies make the best cars and technology, found that buyers are increasingly dissatisfied with the semiautonomous features showing up on vehicles.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TY811_37cB1_G_20170621123418.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>FREE</category>
+    <pubDate>Wed, 21 Jun 2017 14:37:02 EDT</pubDate>
+    </item>
+<!--Item 19 of Technology_Lead_Story_1 -->
+<item>
+      <title>Virgin Mobile to Become iPhone-Only Carrier</title>
+      <guid isPermaLink="false">SB12288264447122304565404583222120552017936</guid>
+      <link>https://www.wsj.com/articles/virgin-mobile-to-become-iphone-only-carrier-1498079762?mod=rss_Technology</link>
+      <description>Virgin Mobile, the phone carrier founded by mogul Richard Branson, will become the world&#8217;s first iPhone-only carrier. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TY953_virgin_G_20170621170842.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Wed, 21 Jun 2017 17:29:32 EDT</pubDate>
+    </item>
+<!--Item 20 of Technology_Lead_Story_1 -->
+<item>
+      <title>Trump Administration to Rescind Obama's Foreign-Born Founder Rule</title>
+      <guid isPermaLink="false">SB12288264447122304565404583221954211307988</guid>
+      <link>https://www.wsj.com/articles/trump-administration-to-rescind-obamas-foreign-born-founder-rule-1498072904?mod=rss_Technology</link>
+      <description>The Trump administration plans to dismantle a regulation that would have helped more foreign-born entrepreneurs build startups in the U.S. without a traditional visa, which could rankle Silicon Valley. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TY869_35BzF_G_20170621151102.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Thu, 22 Jun 2017 07:04:44 EDT</pubDate>
+    </item>
+<!--Item 21 of Technology_Lead_Story_1 -->
+<item>
+      <title>Tesla Replaces Chief of Self-Driving Software</title>
+      <guid isPermaLink="false">SB12708164055279013341404583220542611246014</guid>
+      <link>https://www.wsj.com/articles/tesla-replaces-self-driving-software-chief-1498012870?mod=rss_Technology</link>
+      <description>Chris Lattner, who Tesla announced in January was hired from Apple Inc. as vice president of Autopilot software, has left Elon Musk&#8217;s Silicon Valley auto maker.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TY541_31QhP_G_20170620223220.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="370"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Wed, 21 Jun 2017 00:35:53 EDT</pubDate>
+    </item>
+<!--Item 22 of Technology_Lead_Story_1 -->
+<item>
+      <title>Tokyo Takes Lead in Toshiba Chip-Unit Sale Over China Fears</title>
+      <guid isPermaLink="false">SB12708164055279013341404583220624195646986</guid>
+      <link>https://www.wsj.com/articles/toshiba-picks-government-led-group-as-preferred-bidder-for-chip-unit-1498015576?mod=rss_Technology</link>
+      <description>The Japanese government seized the lead role in buying Toshiba&#8217;s chip unit after expressing concerns about technology leaking to China, but a legal fight could hold up a deal.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TY544_34ilQ_G_20170620231449.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Wed, 21 Jun 2017 12:10:02 EDT</pubDate>
+    </item>
+<!--Item 23 of Technology_Lead_Story_1 -->
+<item>
+      <title>The Economy Needs Amazons, but It Mostly Has GEs</title>
+      <guid isPermaLink="false">SB12708164055279013341404583220333432783450</guid>
+      <link>https://www.wsj.com/articles/the-economy-needs-amazons-but-it-mostly-has-ges-1498037403?mod=rss_Technology</link>
+      <description>When Amazon.com Inc. announced Friday it was buying Whole Foods, the stock market got a taste of something long missing: volatility. If Amazon is one extreme in how companies invest, General Electric is the other, writes Greg Ip.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TY685_CAPACC_G_20170621093530.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Wed, 21 Jun 2017 10:22:21 EDT</pubDate>
+    </item>
+<!--Item 24 of Technology_Lead_Story_1 -->
+<item>
+      <title>Media Startups Try a Lower-Cost Model: Unpaid Student Writers</title>
+      <guid isPermaLink="false">SB10312943123664783869304583195902316394848</guid>
+      <link>https://www.wsj.com/articles/media-startups-try-a-lower-cost-model-unpaid-student-writers-1498050000?mod=rss_Technology</link>
+      <description>Chapter-based, for-profit media companies have been popping up in college markets across the U.S. As more traditional outlets struggle, these student-based sites have a lower-cost model to produce content&#8212;and revenue. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TY365_unpaid_G_20170620150135.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Thu, 22 Jun 2017 07:03:13 EDT</pubDate>
+    </item>
+<!--Item 25 of Technology_Lead_Story_1 -->
+<item>
+      <title>Amazon's New Wardrobe Service Is Latest Threat for Apparel Stores</title>
+      <guid isPermaLink="false">SB12708164055279013341404583219733193310680</guid>
+      <link>https://www.wsj.com/articles/amazons-new-wardrobe-service-is-latest-threat-for-apparel-stores-1497978320?mod=rss_Technology</link>
+      <description>Amazon.com is giving shoppers another reason not to visit stores. The online giant is rolling out a free service to let its Prime members try on clothes at home, its latest attempt to crack into the fashion world.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TY269_0620wa_G_20170620124348.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Tue, 20 Jun 2017 17:57:51 EDT</pubDate>
+    </item>
+<!--Item 1 of Technology_Lead_Story_2 -->
+<item>
+      <title>Where Bezos Leads, Amazon Shareholders Blindly Follow</title>
+      <guid isPermaLink="false">SB12288264447122304565404583223623653734576</guid>
+      <link>https://www.wsj.com/articles/where-bezos-leads-amazon-shareholders-blindly-follow-1498147966?mod=rss_Technology</link>
+      <description>Few companies other than Amazon could announce a $14 billion takeover of a mature firm, give no details of why they are buying the very business model they&#8217;re trying to disrupt, and have their market value rise by more than the takeover price.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TX787_2YZAs_G_20170619114600.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Thu, 22 Jun 2017 20:16:56 EDT</pubDate>
+    </item>
+<!--Item 2 of Technology_Lead_Story_2 -->
+<item>
+      <title>Dear iPhone: I Love You. I Hate You.</title>
+      <guid isPermaLink="false">SB12708164055279013341404583220131928719920</guid>
+      <link>https://www.wsj.com/articles/dear-iphone-i-love-you-i-hate-you-1498063185?mod=rss_Technology</link>
+      <description>As the Apple Inc. iPhone&#8217;s 10th anniversary approaches, Personal Technology columnist Geoffrey A. Fowler penned two letters to tell it how he really feels. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TY781_IPHONE_G_20170621120406.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>FREE</category>
+    <pubDate>Wed, 21 Jun 2017 23:44:34 EDT</pubDate>
+    </item>
+<!--Item 3 of Technology_Lead_Story_2 -->
+<item>
+      <title>Wal-Mart to Vendors: Get Off Amazon's Cloud</title>
+      <guid isPermaLink="false">SB10312943123664783869304583197583880263950</guid>
+      <link>https://www.wsj.com/articles/wal-mart-to-vendors-get-off-amazons-cloud-1498037402?mod=rss_Technology</link>
+      <description>Wal-Mart is telling some technology companies that if they want its business, they can&#8217;t run applications for the retailer on Amazon&#8217;s leading cloud-computing service, Amazon Web Services.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TY403_2Iqyf_G_20170620161021.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Fri, 23 Jun 2017 10:58:35 EDT</pubDate>
+    </item>
+<!--Item 4 of Technology_Lead_Story_2 -->
+<item>
+      <title>Toys Now Have Digital Eyes---Some Cool, Some Creepy</title>
+      <guid isPermaLink="false">SB10412339586363814774704583220064228995772</guid>
+      <link>https://www.wsj.com/articles/dolls-with-digital-eyes-eerie-or-endearing-1498150668?mod=rss_Technology</link>
+      <description>With the help of small LCD screens, digitally animated eyes are giving once-stoic toys&#8212;from race cars to Cabbage Patch Kids&#8212;a highly expressive makeover.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ541_furby2_G_20170622181624.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>FREE</category>
+    <pubDate>Thu, 22 Jun 2017 18:17:43 EDT</pubDate>
+    </item>
+<!--Item 5 of Technology_Lead_Story_2 -->
+<item>
+      <title>Big Prize in Amazon-Whole Foods Deal: Data</title>
+      <guid isPermaLink="false">SB12708164055279013341404583218150502645158</guid>
+      <link>https://www.wsj.com/articles/big-prize-in-amazon-whole-foods-deal-data-1497951004?mod=rss_Technology</link>
+      <description>Amazon for years has been looking for more ways to gather information about how consumers shop. If its deal for Whole Foods goes through, the two companies can join their online and in-store knowledge.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TY547_AMZNBR_G_20170620232838.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Tue, 20 Jun 2017 23:34:37 EDT</pubDate>
+    </item>
+<!--Item 6 of Technology_Lead_Story_2 -->
+<item>
+      <title>How Technology Can Eliminate Traffic Congestion</title>
+      <guid isPermaLink="false">SB11556033604370653892404583179511334035452</guid>
+      <link>https://www.wsj.com/articles/how-technology-can-eliminate-traffic-congestion-1498010580?mod=rss_Technology</link>
+      <description>Variable pricing has long been touted as a miracle cure for backups. Now we have the tools to make it happen.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/FT-AA393_VARIAB_G_20170619155945.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>FREE</category>
+    <pubDate>Tue, 20 Jun 2017 23:00:49 EDT</pubDate>
+    </item>
+<!--Item 1 of Technology_Featured_Stories_3 -->
+<item>
+      <title>The End of Car Ownership</title>
+      <guid isPermaLink="false">SB11178409219476024398104583197672903441836</guid>
+      <link>https://www.wsj.com/articles/the-end-of-car-ownership-1498011001?mod=rss_Technology</link>
+      <description>Ride sharing and self-driving vehicles are going to redefine our relationship with cars. Auto makers and startups are already gearing up for the change.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/FT-AA383_OWNERS_G_20170619152332.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>FREE</category>
+    <pubDate>Wed, 21 Jun 2017 14:20:00 EDT</pubDate>
+    </item>
+<!--Item 2 of Technology_Featured_Stories_3 -->
+<item>
+      <title>Among the iPhone's Biggest Transformations: Apple Itself</title>
+      <guid isPermaLink="false">SB12708164055279013341404583216841922676704</guid>
+      <link>https://www.wsj.com/articles/among-the-iphones-biggest-transformations-apple-itself-1497951003?mod=rss_Technology</link>
+      <description>Since Apple launched the iPhone in June 2007, the smartphone revolution it unleashed has changed the way people work and socialize while reshaping industries from music to hotels. It also has transformed the company in ways that co-founder Steve Jobs could hardly have foreseen. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TX859_iphone_G_20170619130005.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Thu, 22 Jun 2017 14:35:13 EDT</pubDate>
+    </item>
+<!--Item 3 of Technology_Featured_Stories_3 -->
+<item>
+      <title>Forget Mowing Lawns; Teens Make North of $20,000 Fixing Broken Phones</title>
+      <guid isPermaLink="false">SB10076618062518984333304583210280985666380</guid>
+      <link>https://www.wsj.com/articles/bust-your-phone-again-these-teens-are-here-to-helpfor-a-price-1497969766?mod=rss_Technology</link>
+      <description>Some are earning north of $20,000 to fix those cracked screens and broken microphones.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TX942_0619te_G_20170619150039.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>FREE</category>
+    <pubDate>Wed, 21 Jun 2017 09:03:26 EDT</pubDate>
+    </item>
+<!--Item 4 of Technology_Featured_Stories_3 -->
+<item>
+      <title>Who Can Challenge the Google-Facebook 'Duopoly'?</title>
+      <guid isPermaLink="false">SB11178409219476024398104583195491441314484</guid>
+      <link>https://www.wsj.com/articles/the-race-is-on-to-challenge-google-facebook-duopoly-in-digital-advertising-1497864602?mod=rss_Technology</link>
+      <description>Confronted with the market power of Facebook and Google, marketers and ad holding companies would welcome the emergence of a third power in digital advertising. But Amazon, Snap, Verizon and AT&amp;T all have an incredibly long way to go challenge the &#8220;duopoly.&#8221;</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TX415_21jKv_G_20170616201425.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="368"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>FREE</category>
+    <pubDate>Tue, 20 Jun 2017 10:03:20 EDT</pubDate>
+    </item>
+<!--Item 5 of Technology_Featured_Stories_3 -->
+<item>
+      <title>Snap's Challenge: How to Grow Without Getting Awkward</title>
+      <guid isPermaLink="false">SB10584178577045113848204583203604141109468</guid>
+      <link>https://www.wsj.com/articles/snaps-challenge-how-to-grow-without-getting-awkward-1497528001?mod=rss_Technology</link>
+      <description>The social-media company woos advertisers by promising them their ads will only appear beside content curated by editors and users. Now, it needs to grow.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TW508_snap_c_G_20170614171110.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Thu, 15 Jun 2017 19:43:52 EDT</pubDate>
+    </item>
+<!--Item 6 of Technology_Featured_Stories_3 -->
+<item>
+      <title>Rural America Is Stranded in the Dial-Up Age</title>
+      <guid isPermaLink="false">SB11280836134675634271604583070703249285508</guid>
+      <link>https://www.wsj.com/articles/rural-america-is-stranded-in-the-dial-up-age-1497535841?mod=rss_Technology</link>
+      <description>In many far-flung communities, where available broadband speeds barely surpass old-fashioned connections, residents sacrifice not only their online pastimes but also chances at a better living.  </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TW826_0615di_G_20170615130329.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>FREE</category>
+    <pubDate>Fri, 16 Jun 2017 11:55:40 EDT</pubDate>
+    </item>
+<!--Item 7 of Technology_Featured_Stories_3 -->
+<item>
+      <title>Google Will Buy Modular Homes to Address Housing Crunch</title>
+      <guid isPermaLink="false">SB10584178577045113848204583203640001001494</guid>
+      <link>https://www.wsj.com/articles/google-bets-on-modular-homes-to-fill-housing-demand-1497448838?mod=rss_Technology</link>
+      <description>Google owner Alphabet Inc. is finalizing an order to buy 300 modular apartment units from a startup for a building likely to serve as short-term housing for employees.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TV843_GOOGLE_G_20170613152020.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Wed, 14 Jun 2017 16:02:24 EDT</pubDate>
+    </item>
+<!--Item 8 of Technology_Featured_Stories_3 -->
+<item>
+      <title>Scientist's 'Tenacious' Research Paved Way for Breast-Cancer Treatment</title>
+      <guid isPermaLink="false">SB10076618062518984333304583209922853651346</guid>
+      <link>https://www.wsj.com/articles/scientists-tenacious-research-paved-way-for-breast-cancer-treatment-1497621601?mod=rss_Technology</link>
+      <description>When Angela Hartley Brodie first came up with a new way to treat breast cancer in the 1970s, there was little interest from the pharmaceutical sector. But her persistence over the years paid off.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TW741_obitbr_G_20170615104627.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Fri, 16 Jun 2017 10:00:10 EDT</pubDate>
+    </item>
+<!--Item 9 of Technology_Featured_Stories_3 -->
+<item>
+      <title>Yuri Milner: Online Spending Will Fuel World-Wide Growth</title>
+      <guid isPermaLink="false">SB10312943123664783869304583196391810789864</guid>
+      <link>https://www.wsj.com/articles/yuri-milner-online-spending-will-fuel-world-wide-growth-1496974807?mod=rss_Technology</link>
+      <description>Massive growth in online spending will help fuel world-wide growth in the technology sector in the next decade, Yuri Milner, founder of DST Global, said at The Wall Street Journal&#8217;s D.Live Asia 2017 conference.</description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TU367_0609MI_G_20170608221442.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Fri, 09 Jun 2017 08:52:48 EDT</pubDate>
+    </item>
+</channel>
+</rss>
+<!-- fastdynapage - sbkj2kwebappp11 - Fri 06/23/17 - 14:03:18 EDT -->
