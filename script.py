@@ -5,21 +5,21 @@ import sys
 import xml.etree.ElementTree as ET
  
 
-rootdirectory=os.path.dirname(os.path.realpath(__file__))	
+rootdirectory= os.path.join(os.path.dirname(os.path.realpath(__file__)),'news/')	
 
 fields = ['title', 'pubDate', 'description', 'link']
 
-
-def loadRSS(src,filename):
+# load the given RSS feed and save it  to XML file
+def RSSfeed(src,filename):
 
 	src=src.rstrip()
-	resp = requests.get(str(src))
-#   	print src
+	req = requests.get(str(src))
+   	print "Loaded feed "+src
    	with open(filename, 'wb') as f:
-   		f.write(resp.content)
+   		f.write(req.content)
       
-
-def parseXML(xmlfile):
+# method names say it all
+def XMLparser(xmlfile):
  
     tree = ET.parse(xmlfile)
  
@@ -39,7 +39,6 @@ def parseXML(xmlfile):
         newsitems.append(news)
      
     return newsitems
- 
  
 def savetoCSV(newsitems, filename):
  
@@ -72,11 +71,11 @@ def fetch():
 	            with open(os.path.join(root,f1),'r') as f2:
 	                src=f2.readline()
 
-	            loadRSS(src,os.path.join(root,"topnewsfeed.xml"))
-	            newsitems = parseXML(os.path.join(root,"topnewsfeed.xml"))
-	            savetoCSV(newsitems,os.path.join(root,"topnews.csv"))
+	            RSSfeed(src,os.path.join(root,"newsfeed.xml"))
+	            newsitems = XMLparser(os.path.join(root,"newsfeed.xml"))
+	            savetoCSV(newsitems,os.path.join(root,"newsfeed.csv"))
 
-
+	print '\nData updated. Navigate thorugh the respective directories to find the latest news in the CSV files.'
      
 def main():
     fetch() 

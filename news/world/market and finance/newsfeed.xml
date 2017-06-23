@@ -6,7 +6,7 @@
 	  <description>Markets</description> 
 	  <language>en-us</language> 
 	  <copyright>copyright  &#169; 2017 Dow Jones &amp; Company, Inc.</copyright> 
-	  <lastBuildDate>Fri, 23 Jun 2017 13:54:26 EDT</lastBuildDate>
+	  <lastBuildDate>Fri, 23 Jun 2017 14:35:05 EDT</lastBuildDate>
 	  <image>
       <title>WSJ.com: Markets</title>
       <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -25,6 +25,16 @@
     </item>
 <!--Item 1 of HeardOnTheStreet_4 -->
 <item>
+      <title>BlackBerry's Valuation Got Disconnected</title>
+      <guid isPermaLink="false">SB12288264447122304565404583225821337911416</guid>
+      <link>https://www.wsj.com/articles/blackberrys-valuation-got-disconnected-1498239620?mod=rss_markets_main</link>
+      <description>BlackBerry&#8217;s share price surged in the months since it was awarded millions in an arbitration dispute with Qualcomm. Disappointing quarterly results wiped out a chunk of those gains.</description>
+
+      <category>PAID</category>
+    <pubDate>Fri, 23 Jun 2017 13:54:44 EDT</pubDate>
+    </item>
+<!--Item 2 of HeardOnTheStreet_4 -->
+<item>
       <title>For Consumers, Less Debt but Lots of Bills</title>
       <guid isPermaLink="false">SB12288264447122304565404583224223671931386</guid>
       <link>https://www.wsj.com/articles/for-consumers-less-debt-but-lots-of-bills-1498210201?mod=rss_markets_main</link>
@@ -33,7 +43,7 @@
       <category>PAID</category>
     <pubDate>Fri, 23 Jun 2017 08:52:17 EDT</pubDate>
     </item>
-<!--Item 2 of HeardOnTheStreet_4 -->
+<!--Item 3 of HeardOnTheStreet_4 -->
 <item>
       <title>Weibo Gets in Beijing's Way</title>
       <guid isPermaLink="false">SB11603922512965864473104583225181940535070</guid>
@@ -43,7 +53,7 @@
       <category>PAID</category>
     <pubDate>Fri, 23 Jun 2017 06:01:14 EDT</pubDate>
     </item>
-<!--Item 3 of HeardOnTheStreet_4 -->
+<!--Item 4 of HeardOnTheStreet_4 -->
 <item>
       <title>A New Risk for Goldman, Morgan Stanley in Stress Tests</title>
       <guid isPermaLink="false">SB12288264447122304565404583224152786844178</guid>
@@ -53,7 +63,7 @@
       <category>PAID</category>
     <pubDate>Thu, 22 Jun 2017 17:30:44 EDT</pubDate>
     </item>
-<!--Item 4 of HeardOnTheStreet_4 -->
+<!--Item 5 of HeardOnTheStreet_4 -->
 <item>
       <title>China's Debt Crackdown Could Get Out of Hand</title>
       <guid isPermaLink="false">SB12288264447122304565404583224963971600322</guid>
@@ -63,7 +73,7 @@
       <category>PAID</category>
     <pubDate>Fri, 23 Jun 2017 03:53:08 EDT</pubDate>
     </item>
-<!--Item 5 of HeardOnTheStreet_4 -->
+<!--Item 6 of HeardOnTheStreet_4 -->
 <item>
       <title>'Immaterial' Revision or Not, Hain Still has Problems</title>
       <guid isPermaLink="false">SB12288264447122304565404583224010783233562</guid>
@@ -73,7 +83,7 @@
       <category>PAID</category>
     <pubDate>Thu, 22 Jun 2017 16:23:12 EDT</pubDate>
     </item>
-<!--Item 6 of HeardOnTheStreet_4 -->
+<!--Item 7 of HeardOnTheStreet_4 -->
 <item>
       <title>A Risky Bet By Investors---That the Health-Care Bill Fails</title>
       <guid isPermaLink="false">SB12288264447122304565404583223793429425464</guid>
@@ -83,7 +93,7 @@
       <category>PAID</category>
     <pubDate>Thu, 22 Jun 2017 17:10:10 EDT</pubDate>
     </item>
-<!--Item 7 of HeardOnTheStreet_4 -->
+<!--Item 8 of HeardOnTheStreet_4 -->
 <item>
       <title>Uber: Too Big to Flail</title>
       <guid isPermaLink="false">SB11308885268110494634604583223581307379470</guid>
@@ -93,16 +103,6 @@
       <category>PAID</category>
     <pubDate>Thu, 22 Jun 2017 12:21:21 EDT</pubDate>
     </item>
-<!--Item 8 of HeardOnTheStreet_4 -->
-<item>
-      <title>Goodbye for Now to China's Biggest Deal Makers</title>
-      <guid isPermaLink="false">SB11308885268110494634604583223464290048182</guid>
-      <link>https://www.wsj.com/articles/goodbye-for-now-to-chinas-biggest-deal-makers-1498140875?mod=rss_markets_main</link>
-      <description>China&#8217;s crackdown on lending to its biggest deal makers means the &#8220;China bid,&#8221; which has kept global deal making humming, will take an even longer breather than previously thought. </description>
-
-      <category>PAID</category>
-    <pubDate>Thu, 22 Jun 2017 10:14:38 EDT</pubDate>
-    </item>
 </channel>
 </rss>
-<!-- fastdynapage - sbkj2kwebappp09 - Fri 06/23/17 - 13:54:26 EDT -->
+<!-- fastdynapage - secj2kwebappp11 - Fri 06/23/17 - 14:35:05 EDT -->

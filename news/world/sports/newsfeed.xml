@@ -11,7 +11,7 @@
             <link>http://www.bbc.co.uk/sport/0/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jun 2017 18:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2017 19:22:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -32,6 +32,14 @@
             <media:thumbnail width="1563" height="879" url="http://c.files.bbci.co.uk/0A97/production/_96611720_pellegrino_reuters.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Watch: Roy controversially given out obstructing the field]]></title>
+            <description><![CDATA[England batsman Jason Roy is controversially given out for obstructing the field against South Africa during the second Twenty20 at Taunton.]]></description>
+            <link>http://www.bbc.co.uk/sport/cricket/40388041</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/40388041</guid>
+            <pubDate>Fri, 23 Jun 2017 19:12:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2E7E/production/_96620911_p056s9by.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Verstappen fastest before crashing in Azerbaijan practice]]></title>
             <description><![CDATA[Red Bull's Max Verstappen is fastest before crashing during practice for the Azerbaijan Grand Prix, with Lewis Hamilton only 10th.]]></description>
             <link>http://www.bbc.co.uk/sport/formula1/40384627</link>
@@ -40,20 +48,20 @@
             <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/115DB/production/_96613117_max_verstappen_getty.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Curran strikes with second delivery on debut]]></title>
-            <description><![CDATA[England debutant Tom Curran bowls South Africa's Reeza Hendricks with his second delivery in the second Twenty20 match at Taunton.]]></description>
-            <link>http://www.bbc.co.uk/sport/cricket/40388037</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/40388037</guid>
-            <pubDate>Fri, 23 Jun 2017 16:28:25 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/EDE6/production/_96620906_p056rsrn.jpg"/>
-        </item>
-        <item>
             <title><![CDATA['A Lions team of warriors that can beat the All Blacks' - Guscott column]]></title>
             <description><![CDATA[The British and Irish Lions, armed with a clinical attacking edge, are good enough to beat the All Blacks, says Lions great Jeremy Guscott.]]></description>
             <link>http://www.bbc.co.uk/sport/rugby-union/40367901</link>
             <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/40367901</guid>
             <pubDate>Fri, 23 Jun 2017 05:29:21 GMT</pubDate>
             <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/CBE8/production/_96600225_farrell.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England's Winfield ruled out of Women's World Cup opener]]></title>
+            <description><![CDATA[England opening batter and wicketkeeper Lauren Winfield will miss at least their World Cup opener because of injury.]]></description>
+            <link>http://www.bbc.co.uk/sport/cricket/40381590</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/40381590</guid>
+            <pubDate>Fri, 23 Jun 2017 16:55:01 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/A7D0/production/_96606924_winfield.jpg"/>
         </item>
         <item>
             <title><![CDATA[Henry Blofeld: Seagulls, trousers & porpoises - Blofeld's best pint-sized moments]]></title>
@@ -68,8 +76,24 @@
             <description><![CDATA[Winter and Caravaggio give trainer Aidan O'Brien and jockey Ryan Moore a big-race double at Royal Ascot.]]></description>
             <link>http://www.bbc.co.uk/sport/horse-racing/40381629</link>
             <guid isPermaLink="true">http://www.bbc.co.uk/sport/horse-racing/40381629</guid>
-            <pubDate>Fri, 23 Jun 2017 16:12:00 GMT</pubDate>
+            <pubDate>Fri, 23 Jun 2017 18:33:56 GMT</pubDate>
             <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/15389/production/_96612968_caravaggio1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[European Boxing Championships 2017: Seven English boxers to contest finals]]></title>
+            <description><![CDATA[England will have seven fighters in Saturday's finals at the European Boxing Championships in Ukraine.]]></description>
+            <link>http://www.bbc.co.uk/sport/boxing/40385145</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/boxing/40385145</guid>
+            <pubDate>Fri, 23 Jun 2017 18:46:07 GMT</pubDate>
+            <media:thumbnail width="666" height="375" url="http://c.files.bbci.co.uk/FD8F/production/_96611946_yafaiindex.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Royal Ascot jockey has pint of beer thrown at him]]></title>
+            <description><![CDATA[Jockey Andrea Atzeni says a Royal Ascot racegoer threw a pint of beer at him as he made his way to the start of the last race on Friday.]]></description>
+            <link>http://www.bbc.co.uk/sport/horse-racing/40388332</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/horse-racing/40388332</guid>
+            <pubDate>Fri, 23 Jun 2017 18:15:24 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/B740/production/_96621964_atzeni.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ten Wales players ill before win over Samoa - reaction & highlights]]></title>
@@ -80,22 +104,6 @@
             <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/F51E/production/_96605726_cdf_230617_samoa_v_wales17.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Andy Murray to play two Wimbledon warm-up matches at Hurlingham]]></title>
-            <description><![CDATA[Andy Murray adds two exhibition matches to his Wimbledon preparations after his early exit from the Aegon Championships.]]></description>
-            <link>http://www.bbc.co.uk/sport/tennis/40384009</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/40384009</guid>
-            <pubDate>Fri, 23 Jun 2017 16:14:20 GMT</pubDate>
-            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/3066/production/_96609321_murray.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[European Boxing Championships 2017: Yafai, McGrail, McCormack & Clarke win]]></title>
-            <description><![CDATA[England reach four finals at the European Championships and still have another four fighters to contest semi-finals.]]></description>
-            <link>http://www.bbc.co.uk/sport/boxing/40385145</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/boxing/40385145</guid>
-            <pubDate>Fri, 23 Jun 2017 15:12:17 GMT</pubDate>
-            <media:thumbnail width="666" height="375" url="http://c.files.bbci.co.uk/FD8F/production/_96611946_yafaiindex.png"/>
-        </item>
-        <item>
             <title><![CDATA[Itoje in, Jones out - who made your Lions XV?]]></title>
             <description><![CDATA[Leigh Halfpenny or Liam Williams? Alun Wyn Jones or Maro Itoje? Owen Farrell or Johnny Sexton? BBC Sport users have had their say.]]></description>
             <link>http://www.bbc.co.uk/sport/rugby-union/40380835</link>
@@ -104,28 +112,12 @@
             <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/17D2C/production/_96608579_lions_getty.jpg"/>
         </item>
         <item>
-            <title><![CDATA[England's Winfield ruled out of Women's World Cup opener]]></title>
-            <description><![CDATA[England opening batter and wicketkeeper Lauren Winfield will miss at least their World Cup opener because of injury.]]></description>
-            <link>http://www.bbc.co.uk/sport/cricket/40381590</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/40381590</guid>
-            <pubDate>Fri, 23 Jun 2017 16:55:01 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/A7D0/production/_96606924_winfield.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Punter narrowly misses out on £1m Ascot accumulator]]></title>
-            <description><![CDATA[The £40 accumulator was placed earlier in the week at Ladbrokes in Dunstable.]]></description>
-            <link>http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-40383390</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-40383390</guid>
-            <pubDate>Fri, 23 Jun 2017 16:14:16 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DA5D/production/_96610955_tv040225265.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Athletes understand planned record wipe, says outgoing UK Athletics boss]]></title>
-            <description><![CDATA[Outgoing UK Athletics chief Ed Warner backs plans to erase world records before 2005, adding athletes affected understand "the greater good".]]></description>
-            <link>http://www.bbc.co.uk/sport/athletics/40380005</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/athletics/40380005</guid>
-            <pubDate>Fri, 23 Jun 2017 11:42:57 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/515E/production/_96603802_radcliffe.jpg"/>
+            <title><![CDATA[Murray to play two matches at Hurlingham before Wimbledon]]></title>
+            <description><![CDATA[Andy Murray adds two exhibition matches to his Wimbledon preparations after his early exit from the Aegon Championships.]]></description>
+            <link>http://www.bbc.co.uk/sport/tennis/40384009</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/40384009</guid>
+            <pubDate>Fri, 23 Jun 2017 16:14:20 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/3066/production/_96609321_murray.jpg"/>
         </item>
         <item>
             <title><![CDATA[Ireland to hold talks about playing England in Lord's Test]]></title>
@@ -166,6 +158,14 @@
             <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/40386152</guid>
             <pubDate>Fri, 23 Jun 2017 17:34:14 GMT</pubDate>
             <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/02C8/production/_96621700_p056rzf6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[England v South Africa: Debutant Tom Curran removes Reeza Hendricks with second ball]]></title>
+            <description><![CDATA[England debutant Tom Curran bowls South Africa's Reeza Hendricks with his second delivery in the second Twenty20 match at Taunton.]]></description>
+            <link>http://www.bbc.co.uk/sport/cricket/40388037</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/40388037</guid>
+            <pubDate>Fri, 23 Jun 2017 16:28:25 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/EDE6/production/_96620906_p056rsrn.jpg"/>
         </item>
         <item>
             <title><![CDATA[Queen's 2017: Marin Cilic beats Donald Young in quarter-final]]></title>
@@ -222,14 +222,6 @@
             <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/40386146</guid>
             <pubDate>Fri, 23 Jun 2017 14:53:18 GMT</pubDate>
             <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/69C8/production/_96608072_p056r9g2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hockey World League 2017: England reach semis after beating Canada]]></title>
-            <description><![CDATA[Highlights of England's 4-2 win over Canada that sees them qualify for the semi-finals of the Hockey World League.]]></description>
-            <link>http://www.bbc.co.uk/sport/hockey/40376773</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/hockey/40376773</guid>
-            <pubDate>Thu, 22 Jun 2017 21:27:31 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/6342/production/_96601452_p056nv5b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Women's Sport Week 2017: Heather Knight relishes Women's World Cup after moon boot adventures]]></title>

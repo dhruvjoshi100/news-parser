@@ -6,7 +6,7 @@
 	  <description>WSJD - Technology</description> 
 	  <language>en-us</language> 
 	  <copyright>copyright  &#169; 2017 Dow Jones &amp; Company, Inc.</copyright> 
-	  <lastBuildDate>Fri, 23 Jun 2017 14:03:18 EDT</lastBuildDate>
+	  <lastBuildDate>Fri, 23 Jun 2017 15:23:25 EDT</lastBuildDate>
 	  <image>
       <title>WSJ.com: WSJD</title>
       <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -15,7 +15,7 @@
     <atom:link href="http://online.wsj.com" rel="self" type="application/rss+xml" />
 <!--Item 1 of Technology_Lead_Story_1 -->
 <item>
-      <title>Uber Scrambles to Prevent Exodus Amid Office Turmoil</title>
+      <title>Leaderless Uber Scrambles to Prevent Employee Exodus</title>
       <guid isPermaLink="false">SB12288264447122304565404583225140842362924</guid>
       <link>https://www.wsj.com/articles/uber-makes-quick-workplace-reforms-to-calm-strained-nerves-1498237561?mod=rss_Technology</link>
       <description>Uber&#8217;s senior managers have been urging its more than 15,000 employees to stick around and see how the embattled company reinvents itself after the ouster of its CEO. </description>
@@ -29,7 +29,7 @@
     <media:description>image</media:description>
     </media:content>
     <category>PAID</category>
-    <pubDate>Fri, 23 Jun 2017 13:53:41 EDT</pubDate>
+    <pubDate>Fri, 23 Jun 2017 15:23:09 EDT</pubDate>
     </item>
 <!--Item 2 of Technology_Lead_Story_1 -->
 <item>
@@ -65,7 +65,7 @@
     <media:description>image</media:description>
     </media:content>
     <category>PAID</category>
-    <pubDate>Fri, 23 Jun 2017 14:03:04 EDT</pubDate>
+    <pubDate>Fri, 23 Jun 2017 15:13:12 EDT</pubDate>
     </item>
 <!--Item 4 of Technology_Lead_Story_1 -->
 <item>
@@ -727,4 +727,4 @@
     </item>
 </channel>
 </rss>
-<!-- fastdynapage - sbkj2kwebappp11 - Fri 06/23/17 - 14:03:18 EDT -->
+<!-- fastdynapage - sbkj2kwebappp09 - Fri 06/23/17 - 15:23:25 EDT -->
