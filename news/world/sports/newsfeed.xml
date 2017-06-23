@@ -11,7 +11,7 @@
             <link>http://www.bbc.co.uk/sport/0/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jun 2017 19:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2017 19:33:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[British number three Dan Evans announces he tested positive for cocaine in a drugs test taken in April, saying: "I made a mistake."]]></description>
             <link>http://www.bbc.co.uk/sport/tennis/40387574</link>
             <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/40387574</guid>
-            <pubDate>Fri, 23 Jun 2017 17:49:50 GMT</pubDate>
+            <pubDate>Fri, 23 Jun 2017 19:25:36 GMT</pubDate>
             <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/116F4/production/_96621417_danevans.jpg"/>
         </item>
         <item>
@@ -56,12 +56,28 @@
             <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/CBE8/production/_96600225_farrell.jpg"/>
         </item>
         <item>
+            <title><![CDATA[South Africa level series with dramatic victory]]></title>
+            <description><![CDATA[England's series with South Africa goes to a decider as the Proteas level the three-game contest with a dramatic three-run victory.]]></description>
+            <link>http://www.bbc.co.uk/sport/cricket/40387207</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/40387207</guid>
+            <pubDate>Fri, 23 Jun 2017 19:31:57 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://news.bbcimg.co.uk/media/images/82601000/jpg/_82601513_breakingnews.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[England's Winfield ruled out of Women's World Cup opener]]></title>
             <description><![CDATA[England opening batter and wicketkeeper Lauren Winfield will miss at least their World Cup opener because of injury.]]></description>
             <link>http://www.bbc.co.uk/sport/cricket/40381590</link>
             <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/40381590</guid>
             <pubDate>Fri, 23 Jun 2017 16:55:01 GMT</pubDate>
             <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/A7D0/production/_96606924_winfield.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Queen's 2017: Grigor Dimitrov and Marin Cilic through to Aegon Championships semi-finals]]></title>
+            <description><![CDATA[Former Queen's champions Grigor Dimitrov and Marin Cilic reach this year's Aegon Championships semi-finals.]]></description>
+            <link>http://www.bbc.co.uk/sport/tennis/40388764</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/40388764</guid>
+            <pubDate>Fri, 23 Jun 2017 19:28:36 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/45F8/production/_96621971_dimitrov.jpg"/>
         </item>
         <item>
             <title><![CDATA[Henry Blofeld: Seagulls, trousers & porpoises - Blofeld's best pint-sized moments]]></title>
@@ -112,6 +128,14 @@
             <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/17D2C/production/_96608579_lions_getty.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Garcia & Stenson one shot off lead in BMW International]]></title>
+            <description><![CDATA[Defending champion Henrik Stenson and Masters winner Sergio Garcia trail the BMW International leaders by one in Munich.]]></description>
+            <link>http://www.bbc.co.uk/sport/golf/40389257</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/golf/40389257</guid>
+            <pubDate>Fri, 23 Jun 2017 19:24:47 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/94EA/production/_96622183_garcia_getty2.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Murray to play two matches at Hurlingham before Wimbledon]]></title>
             <description><![CDATA[Andy Murray adds two exhibition matches to his Wimbledon preparations after his early exit from the Aegon Championships.]]></description>
             <link>http://www.bbc.co.uk/sport/tennis/40384009</link>
@@ -126,22 +150,6 @@
             <guid isPermaLink="true">http://www.bbc.co.uk/sport/athletics/40382706</guid>
             <pubDate>Fri, 23 Jun 2017 16:10:45 GMT</pubDate>
             <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/3688/production/_96606931_ireland.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lionel Messi 'could swap tax fraud jail sentence for fine']]></title>
-            <description><![CDATA[Prosecutors reportedly suggested the Barcelona star pay 255,000 euros instead of serving prison time.]]></description>
-            <link>http://www.bbc.co.uk/news/world-europe-40378718</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-40378718</guid>
-            <pubDate>Fri, 23 Jun 2017 10:07:32 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8E4E/production/_96603463_e8d431f3-3bcb-4848-b096-7ce4efc59b6f.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Community Shield proceeds for Grenfell Tower victims]]></title>
-            <description><![CDATA[Proceeds from the 2017 FA Community Shield will be donated to support those affected by the Grenfell Tower fire.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/40381233</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/40381233</guid>
-            <pubDate>Fri, 23 Jun 2017 17:18:25 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/162E2/production/_96605809_wembley_pa.jpg"/>
         </item>
         <item>
             <title><![CDATA[Personalise your BBC Sport app and sign up for notifications]]></title>

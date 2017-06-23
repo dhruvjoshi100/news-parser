@@ -7,7 +7,7 @@ import xml.etree.ElementTree as ET
 
 rootdirectory= os.path.join(os.path.dirname(os.path.realpath(__file__)),'news/')	
 
-fields = ['title', 'pubDate', 'description', 'link']
+fields = ['title', 'pubDate', 'link']
 
 # load the given RSS feed and save it  to XML file
 def RSSfeed(src,filename):
