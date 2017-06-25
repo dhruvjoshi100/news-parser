@@ -4,7 +4,7 @@ import requests
 import sys
 import xml.etree.ElementTree as ET
  
-
+# bug fix  - don't add / while using os.path.join()
 rootdirectory= os.path.join(os.path.dirname(os.path.realpath(__file__)),'news/')	
 
 fields = ['title', 'pubDate', 'link']
@@ -12,10 +12,11 @@ fields = ['title', 'pubDate', 'link']
 # load the given RSS feed and save it  to XML file
 def RSSfeed(src,filename):
 
+	# major headache and consequent bug fix - file editors append newline to the end of file which creates problems in fetching url, strip the string of all whitespaces
 	src=src.rstrip()
 	req = requests.get(str(src))
-	print ("Loaded feed "+src)
-	with open(filename, 'wb') as f:
+   	print "Loaded feed "+src
+   	with open(filename, 'wb') as f:
    		f.write(req.content)
       
 # method names say it all
@@ -75,7 +76,7 @@ def fetch():
 	            newsitems = XMLparser(os.path.join(root,"newsfeed.xml"))
 	            savetoCSV(newsitems,os.path.join(root,"newsfeed.csv"))
 
-	#print '\nData updated. Navigate thorugh the respective directories to find the latest news in the CSV files.'
+	print '\nData updated. Navigate thorugh the respective directories to find the latest news in the CSV files.'
      
 def main():
     fetch() 
