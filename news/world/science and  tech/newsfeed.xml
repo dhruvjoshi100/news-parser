@@ -6,7 +6,7 @@
 	  <description>WSJD - Technology</description> 
 	  <language>en-us</language> 
 	  <copyright>copyright  &#169; 2017 Dow Jones &amp; Company, Inc.</copyright> 
-	  <lastBuildDate>Fri, 23 Jun 2017 15:28:30 EDT</lastBuildDate>
+	  <lastBuildDate>Sun, 25 Jun 2017 00:30:07 EDT</lastBuildDate>
 	  <image>
       <title>WSJ.com: WSJD</title>
       <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -21,7 +21,7 @@
       <description>Uber&#8217;s senior managers have been urging its more than 15,000 employees to stick around and see how the embattled company reinvents itself after the ouster of its CEO. </description>
 
       <media:content xmlns:media="http://search.yahoo.com/mrss"
-               url="http://s.wsj.net/public/resources/images/BN-TZ743_uberin_G_20170623114113.jpg" 
+               url="http://s.wsj.net/public/resources/images/BN-TZ858_0623UB_G_20170623150422.jpg" 
                type="image/jpeg"
                medium="image"
                height="369"
@@ -29,9 +29,27 @@
     <media:description>image</media:description>
     </media:content>
     <category>PAID</category>
-    <pubDate>Fri, 23 Jun 2017 15:23:09 EDT</pubDate>
+    <pubDate>Sat, 24 Jun 2017 08:35:45 EDT</pubDate>
     </item>
 <!--Item 2 of Technology_Lead_Story_1 -->
+<item>
+      <title>Google to Stop Reading Users' Emails to Target Ads</title>
+      <guid isPermaLink="false">SB12288264447122304565404583226013401146412</guid>
+      <link>https://www.wsj.com/articles/google-to-stop-reading-users-emails-to-target-ads-1498247136?mod=rss_Technology</link>
+      <description>Google said its computers will soon stop reading the emails of its Gmail users to personalize their ads, a move that addresses a longstanding privacy concern about a product that is central to its growing corporate-services business. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ885_37tVW_G_20170623153736.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Fri, 23 Jun 2017 19:01:14 EDT</pubDate>
+    </item>
+<!--Item 3 of Technology_Lead_Story_1 -->
 <item>
       <title>From Music to Maps, How Apple's iPhone Changed Business</title>
       <guid isPermaLink="false">SB12288264447122304565404583222910212767602</guid>
@@ -47,11 +65,11 @@
     <media:description>image</media:description>
     </media:content>
     <category>PAID</category>
-    <pubDate>Fri, 23 Jun 2017 11:14:43 EDT</pubDate>
+    <pubDate>Sat, 24 Jun 2017 08:13:22 EDT</pubDate>
     </item>
-<!--Item 3 of Technology_Lead_Story_1 -->
+<!--Item 4 of Technology_Lead_Story_1 -->
 <item>
-      <title>The New Sticker Shock: Plunging Cellphone Bills</title>
+      <title>If Your Cellphone Bill Isn't Falling, You're Missing Out</title>
       <guid isPermaLink="false">SB11009089591291013956004583217583459073660</guid>
       <link>https://www.wsj.com/articles/the-new-sticker-shock-plunging-cellphone-bills-1498232910?mod=rss_Technology</link>
       <description>There are more cellphones in America than people. That market saturation has led to brutal price competition, which in turn is transforming consumers&#8217; costs, industry profits and antitrust law.</description>
@@ -65,9 +83,9 @@
     <media:description>image</media:description>
     </media:content>
     <category>PAID</category>
-    <pubDate>Fri, 23 Jun 2017 15:28:15 EDT</pubDate>
+    <pubDate>Fri, 23 Jun 2017 15:44:11 EDT</pubDate>
     </item>
-<!--Item 4 of Technology_Lead_Story_1 -->
+<!--Item 5 of Technology_Lead_Story_1 -->
 <item>
       <title>Uber Ex-CEO Travis Kalanick Knew of Stolen Google Files</title>
       <guid isPermaLink="false">SB12288264447122304565404583224044095482614</guid>
@@ -83,9 +101,9 @@
     <media:description>image</media:description>
     </media:content>
     <category>PAID</category>
-    <pubDate>Thu, 22 Jun 2017 22:17:56 EDT</pubDate>
+    <pubDate>Fri, 23 Jun 2017 19:11:28 EDT</pubDate>
     </item>
-<!--Item 5 of Technology_Lead_Story_1 -->
+<!--Item 6 of Technology_Lead_Story_1 -->
 <item>
       <title>Tesla Explores Possibility of Manufacturing Cars in China</title>
       <guid isPermaLink="false">SB12288264447122304565404583223652133411918</guid>
@@ -103,7 +121,25 @@
     <category>FREE</category>
     <pubDate>Thu, 22 Jun 2017 15:31:21 EDT</pubDate>
     </item>
-<!--Item 6 of Technology_Lead_Story_1 -->
+<!--Item 7 of Technology_Lead_Story_1 -->
+<item>
+      <title>Infosys Settles Visa Case With New York</title>
+      <guid isPermaLink="false">SB12288264447122304565404583225981308985570</guid>
+      <link>https://www.wsj.com/articles/infosys-settles-visa-case-with-new-york-1498247216?mod=rss_Technology</link>
+      <description>Indian outsourcing giant Infosys agreed to pay $1 million to settle claims that it placed foreign workers in jobs in New York without obtaining proper visas or paying high enough wages or taxes for their work, the state&#8217;s attorney general said. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ887_31R91_G_20170623154024.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Fri, 23 Jun 2017 17:22:42 EDT</pubDate>
+    </item>
+<!--Item 8 of Technology_Lead_Story_1 -->
 <item>
       <title>Apple Scraps Like an Underdog in Second Biggest Mobile Market</title>
       <guid isPermaLink="false">SB10312943123664783869304583197034217843640</guid>
@@ -113,7 +149,7 @@
       <category>PAID</category>
     <pubDate>Fri, 23 Jun 2017 03:17:55 EDT</pubDate>
     </item>
-<!--Item 7 of Technology_Lead_Story_1 -->
+<!--Item 9 of Technology_Lead_Story_1 -->
 <item>
       <title>Facebook Has New Vision Beyond 'Connecting,' and It Thinks Groups Are Key</title>
       <guid isPermaLink="false">SB12288264447122304565404583223713978975712</guid>
@@ -131,7 +167,7 @@
     <category>PAID</category>
     <pubDate>Thu, 22 Jun 2017 18:36:05 EDT</pubDate>
     </item>
-<!--Item 8 of Technology_Lead_Story_1 -->
+<!--Item 10 of Technology_Lead_Story_1 -->
 <item>
       <title>BlackBerry Revenue Falls Amid Shift to Software</title>
       <guid isPermaLink="false">SB12288264447122304565404583225582162998610</guid>
@@ -149,7 +185,7 @@
     <category>PAID</category>
     <pubDate>Fri, 23 Jun 2017 13:54:12 EDT</pubDate>
     </item>
-<!--Item 9 of Technology_Lead_Story_1 -->
+<!--Item 11 of Technology_Lead_Story_1 -->
 <item>
       <title>Content Recommendation Firm Outbrain Lays Off 4% of its Workforce</title>
       <guid isPermaLink="false">SB12288264447122304565404583225614131824432</guid>
@@ -167,7 +203,7 @@
     <category>FREE</category>
     <pubDate>Fri, 23 Jun 2017 12:43:23 EDT</pubDate>
     </item>
-<!--Item 10 of Technology_Lead_Story_1 -->
+<!--Item 12 of Technology_Lead_Story_1 -->
 <item>
       <title>Trump Promises Telecom Executives Less Red Tape</title>
       <guid isPermaLink="false">SB12288264447122304565404583223861775773392</guid>
@@ -185,7 +221,7 @@
     <category>PAID</category>
     <pubDate>Thu, 22 Jun 2017 17:14:18 EDT</pubDate>
     </item>
-<!--Item 11 of Technology_Lead_Story_1 -->
+<!--Item 13 of Technology_Lead_Story_1 -->
 <item>
       <title>Taiwan's Foxconn Eyes Seven States for $10 Billion Investment</title>
       <guid isPermaLink="false">SB12288264447122304565404583222711006668062</guid>
@@ -203,7 +239,7 @@
     <category>PAID</category>
     <pubDate>Thu, 22 Jun 2017 14:43:20 EDT</pubDate>
     </item>
-<!--Item 12 of Technology_Lead_Story_1 -->
+<!--Item 14 of Technology_Lead_Story_1 -->
 <item>
       <title>Weibo Gets in Beijing's Way</title>
       <guid isPermaLink="false">SB11603922512965864473104583225181940535070</guid>
@@ -221,7 +257,7 @@
     <category>PAID</category>
     <pubDate>Fri, 23 Jun 2017 06:01:14 EDT</pubDate>
     </item>
-<!--Item 13 of Technology_Lead_Story_1 -->
+<!--Item 15 of Technology_Lead_Story_1 -->
 <item>
       <title>Apple Supplier Imagination Technologies Puts Itself Up for Sale</title>
       <guid isPermaLink="false">SB12288264447122304565404583223263563659862</guid>
@@ -239,7 +275,7 @@
     <category>PAID</category>
     <pubDate>Thu, 22 Jun 2017 07:21:00 EDT</pubDate>
     </item>
-<!--Item 14 of Technology_Lead_Story_1 -->
+<!--Item 16 of Technology_Lead_Story_1 -->
 <item>
       <title>Cable Operator Altice USA Climbs in Market Debut</title>
       <guid isPermaLink="false">SB10018586632363844129004583223510415389872</guid>
@@ -257,7 +293,7 @@
     <category>PAID</category>
     <pubDate>Thu, 22 Jun 2017 17:49:58 EDT</pubDate>
     </item>
-<!--Item 15 of Technology_Lead_Story_1 -->
+<!--Item 17 of Technology_Lead_Story_1 -->
 <item>
       <title>Oracle's Cloud Business Lifts Profit</title>
       <guid isPermaLink="false">SB12562373442766844893504583221793883059354</guid>
@@ -275,7 +311,7 @@
     <category>PAID</category>
     <pubDate>Wed, 21 Jun 2017 18:56:21 EDT</pubDate>
     </item>
-<!--Item 16 of Technology_Lead_Story_1 -->
+<!--Item 18 of Technology_Lead_Story_1 -->
 <item>
       <title>NBC Sports Jumps on the Esports Bandwagon</title>
       <guid isPermaLink="false">SB12708164055279013341404583220153983371418</guid>
@@ -293,7 +329,7 @@
     <category>PAID</category>
     <pubDate>Wed, 21 Jun 2017 13:11:09 EDT</pubDate>
     </item>
-<!--Item 17 of Technology_Lead_Story_1 -->
+<!--Item 19 of Technology_Lead_Story_1 -->
 <item>
       <title>Aviation Industry Seeks to Strengthen Cybersecurity Defenses</title>
       <guid isPermaLink="false">SB12288264447122304565404583222583918438380</guid>
@@ -311,7 +347,7 @@
     <category>PAID</category>
     <pubDate>Thu, 22 Jun 2017 12:40:39 EDT</pubDate>
     </item>
-<!--Item 18 of Technology_Lead_Story_1 -->
+<!--Item 20 of Technology_Lead_Story_1 -->
 <item>
       <title>Car Buyers Complain About Semiautonomous Features</title>
       <guid isPermaLink="false">SB12288264447122304565404583221730258097150</guid>
@@ -329,7 +365,7 @@
     <category>FREE</category>
     <pubDate>Wed, 21 Jun 2017 14:37:02 EDT</pubDate>
     </item>
-<!--Item 19 of Technology_Lead_Story_1 -->
+<!--Item 21 of Technology_Lead_Story_1 -->
 <item>
       <title>Virgin Mobile to Become iPhone-Only Carrier</title>
       <guid isPermaLink="false">SB12288264447122304565404583222120552017936</guid>
@@ -347,7 +383,7 @@
     <category>PAID</category>
     <pubDate>Wed, 21 Jun 2017 17:29:32 EDT</pubDate>
     </item>
-<!--Item 20 of Technology_Lead_Story_1 -->
+<!--Item 22 of Technology_Lead_Story_1 -->
 <item>
       <title>Trump Administration to Rescind Obama's Foreign-Born Founder Rule</title>
       <guid isPermaLink="false">SB12288264447122304565404583221954211307988</guid>
@@ -365,7 +401,7 @@
     <category>PAID</category>
     <pubDate>Thu, 22 Jun 2017 07:04:44 EDT</pubDate>
     </item>
-<!--Item 21 of Technology_Lead_Story_1 -->
+<!--Item 23 of Technology_Lead_Story_1 -->
 <item>
       <title>Tesla Replaces Chief of Self-Driving Software</title>
       <guid isPermaLink="false">SB12708164055279013341404583220542611246014</guid>
@@ -383,7 +419,7 @@
     <category>PAID</category>
     <pubDate>Wed, 21 Jun 2017 00:35:53 EDT</pubDate>
     </item>
-<!--Item 22 of Technology_Lead_Story_1 -->
+<!--Item 24 of Technology_Lead_Story_1 -->
 <item>
       <title>Tokyo Takes Lead in Toshiba Chip-Unit Sale Over China Fears</title>
       <guid isPermaLink="false">SB12708164055279013341404583220624195646986</guid>
@@ -401,7 +437,7 @@
     <category>PAID</category>
     <pubDate>Wed, 21 Jun 2017 12:10:02 EDT</pubDate>
     </item>
-<!--Item 23 of Technology_Lead_Story_1 -->
+<!--Item 25 of Technology_Lead_Story_1 -->
 <item>
       <title>The Economy Needs Amazons, but It Mostly Has GEs</title>
       <guid isPermaLink="false">SB12708164055279013341404583220333432783450</guid>
@@ -419,7 +455,7 @@
     <category>PAID</category>
     <pubDate>Wed, 21 Jun 2017 10:22:21 EDT</pubDate>
     </item>
-<!--Item 24 of Technology_Lead_Story_1 -->
+<!--Item 26 of Technology_Lead_Story_1 -->
 <item>
       <title>Media Startups Try a Lower-Cost Model: Unpaid Student Writers</title>
       <guid isPermaLink="false">SB10312943123664783869304583195902316394848</guid>
@@ -437,7 +473,7 @@
     <category>PAID</category>
     <pubDate>Thu, 22 Jun 2017 07:03:13 EDT</pubDate>
     </item>
-<!--Item 25 of Technology_Lead_Story_1 -->
+<!--Item 27 of Technology_Lead_Story_1 -->
 <item>
       <title>Amazon's New Wardrobe Service Is Latest Threat for Apparel Stores</title>
       <guid isPermaLink="false">SB12708164055279013341404583219733193310680</guid>
@@ -457,6 +493,24 @@
     </item>
 <!--Item 1 of Technology_Lead_Story_2 -->
 <item>
+      <title>Images That Age You Automatically</title>
+      <guid isPermaLink="false">SB12562373442766844893504583223684012160720</guid>
+      <link>https://www.wsj.com/articles/images-that-age-you-automatically-1498231038?mod=rss_Technology</link>
+      <description>To identify people more easily, scientists are enlisting computers to automate the creation of facial images that age in sync with the people they portray. </description>
+
+      <media:content xmlns:media="http://search.yahoo.com/mrss"
+               url="http://s.wsj.net/public/resources/images/BN-TZ285_RANDD_G_20170622114010.jpg" 
+               type="image/jpeg"
+               medium="image"
+               height="369"
+               width="553"> 
+    <media:description>image</media:description>
+    </media:content>
+    <category>PAID</category>
+    <pubDate>Fri, 23 Jun 2017 11:24:15 EDT</pubDate>
+    </item>
+<!--Item 2 of Technology_Lead_Story_2 -->
+<item>
       <title>Where Bezos Leads, Amazon Shareholders Blindly Follow</title>
       <guid isPermaLink="false">SB12288264447122304565404583223623653734576</guid>
       <link>https://www.wsj.com/articles/where-bezos-leads-amazon-shareholders-blindly-follow-1498147966?mod=rss_Technology</link>
@@ -473,7 +527,7 @@
     <category>PAID</category>
     <pubDate>Thu, 22 Jun 2017 20:16:56 EDT</pubDate>
     </item>
-<!--Item 2 of Technology_Lead_Story_2 -->
+<!--Item 3 of Technology_Lead_Story_2 -->
 <item>
       <title>Dear iPhone: I Love You. I Hate You.</title>
       <guid isPermaLink="false">SB12708164055279013341404583220131928719920</guid>
@@ -490,24 +544,6 @@
     </media:content>
     <category>FREE</category>
     <pubDate>Wed, 21 Jun 2017 23:44:34 EDT</pubDate>
-    </item>
-<!--Item 3 of Technology_Lead_Story_2 -->
-<item>
-      <title>Wal-Mart to Vendors: Get Off Amazon's Cloud</title>
-      <guid isPermaLink="false">SB10312943123664783869304583197583880263950</guid>
-      <link>https://www.wsj.com/articles/wal-mart-to-vendors-get-off-amazons-cloud-1498037402?mod=rss_Technology</link>
-      <description>Wal-Mart is telling some technology companies that if they want its business, they can&#8217;t run applications for the retailer on Amazon&#8217;s leading cloud-computing service, Amazon Web Services.</description>
-
-      <media:content xmlns:media="http://search.yahoo.com/mrss"
-               url="http://s.wsj.net/public/resources/images/BN-TY403_2Iqyf_G_20170620161021.jpg" 
-               type="image/jpeg"
-               medium="image"
-               height="369"
-               width="553"> 
-    <media:description>image</media:description>
-    </media:content>
-    <category>PAID</category>
-    <pubDate>Fri, 23 Jun 2017 10:58:35 EDT</pubDate>
     </item>
 <!--Item 4 of Technology_Lead_Story_2 -->
 <item>
@@ -526,42 +562,6 @@
     </media:content>
     <category>FREE</category>
     <pubDate>Thu, 22 Jun 2017 18:17:43 EDT</pubDate>
-    </item>
-<!--Item 5 of Technology_Lead_Story_2 -->
-<item>
-      <title>Big Prize in Amazon-Whole Foods Deal: Data</title>
-      <guid isPermaLink="false">SB12708164055279013341404583218150502645158</guid>
-      <link>https://www.wsj.com/articles/big-prize-in-amazon-whole-foods-deal-data-1497951004?mod=rss_Technology</link>
-      <description>Amazon for years has been looking for more ways to gather information about how consumers shop. If its deal for Whole Foods goes through, the two companies can join their online and in-store knowledge.</description>
-
-      <media:content xmlns:media="http://search.yahoo.com/mrss"
-               url="http://s.wsj.net/public/resources/images/BN-TY547_AMZNBR_G_20170620232838.jpg" 
-               type="image/jpeg"
-               medium="image"
-               height="369"
-               width="553"> 
-    <media:description>image</media:description>
-    </media:content>
-    <category>PAID</category>
-    <pubDate>Tue, 20 Jun 2017 23:34:37 EDT</pubDate>
-    </item>
-<!--Item 6 of Technology_Lead_Story_2 -->
-<item>
-      <title>How Technology Can Eliminate Traffic Congestion</title>
-      <guid isPermaLink="false">SB11556033604370653892404583179511334035452</guid>
-      <link>https://www.wsj.com/articles/how-technology-can-eliminate-traffic-congestion-1498010580?mod=rss_Technology</link>
-      <description>Variable pricing has long been touted as a miracle cure for backups. Now we have the tools to make it happen.</description>
-
-      <media:content xmlns:media="http://search.yahoo.com/mrss"
-               url="http://s.wsj.net/public/resources/images/FT-AA393_VARIAB_G_20170619155945.jpg" 
-               type="image/jpeg"
-               medium="image"
-               height="369"
-               width="553"> 
-    <media:description>image</media:description>
-    </media:content>
-    <category>FREE</category>
-    <pubDate>Tue, 20 Jun 2017 23:00:49 EDT</pubDate>
     </item>
 <!--Item 1 of Technology_Featured_Stories_3 -->
 <item>
@@ -727,4 +727,4 @@
     </item>
 </channel>
 </rss>
-<!-- fastdynapage - secj2kwebappp11 - Fri 06/23/17 - 15:28:30 EDT -->
+<!-- fastdynapage - secj2kwebappp09 - Sun 06/25/17 - 00:30:07 EDT -->

@@ -14,8 +14,8 @@ def RSSfeed(src,filename):
 
 	src=src.rstrip()
 	req = requests.get(str(src))
-   	#print "Loaded feed "+src
-   	with open(filename, 'wb') as f:
+	print ("Loaded feed "+src)
+	with open(filename, 'wb') as f:
    		f.write(req.content)
       
 # method names say it all
