@@ -14,7 +14,7 @@ def RSSfeed(src,filename):
 
 	src=src.rstrip()
 	req = requests.get(str(src))
-   	print "Loaded feed "+src
+   	#print "Loaded feed "+src
    	with open(filename, 'wb') as f:
    		f.write(req.content)
       
@@ -75,7 +75,7 @@ def fetch():
 	            newsitems = XMLparser(os.path.join(root,"newsfeed.xml"))
 	            savetoCSV(newsitems,os.path.join(root,"newsfeed.csv"))
 
-	print '\nData updated. Navigate thorugh the respective directories to find the latest news in the CSV files.'
+	#print '\nData updated. Navigate thorugh the respective directories to find the latest news in the CSV files.'
      
 def main():
     fetch() 
